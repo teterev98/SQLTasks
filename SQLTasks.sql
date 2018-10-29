@@ -2,6 +2,7 @@ SELECT DISTINCT NAME, POSITION
 FROM EMPLOEE
 WHERE DEPARTMENT_ID = 1;
 
+----------------------------------------------
 
 SELECT NAME
 FROM EMPLOYEE EMP1 
